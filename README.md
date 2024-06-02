@@ -2,6 +2,7 @@
 # JDBC Project
 
 This project is a Java database project which basically considers an SQL file where there is a database created and using Java and a terminal interface we can run the SQL queries using a menu based programme.
+It uses a mySQL support
 
 
 ## Features
